@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Only Way",
+  "base_artist": "9Lana",
+  "createdAt": "2026-01-06T14:44:36.972016Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Leaving Is The Only Way Out",
+      "artist": "Shania Twain",
+      "has_synced": false,
+      "path": "select/01_Leaving_Is_The_Only_Way_Out_Shania_Twain.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Only Way",
+      "artist": "lil wayne",
+      "has_synced": true,
+      "path": "select/02_Only_Way_lil_wayne.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Only Way (feat. Birdman)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/03_Only_Way_(feat._Birdman)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Only Way Out (feat. Vancouver Sleep Clinic) [Mixed]",
+      "artist": "Madeon",
+      "has_synced": false,
+      "path": "select/04_Only_Way_Out_(feat._Vancouver_Sleep_Clinic)_[Mixed]_Madeon.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Only Way Is Up 12'' Version",
+      "artist": "Yazz",
+      "has_synced": true,
+      "path": "select/05_The_Only_Way_Is_Up_12''_Version_Yazz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Only Way",
+      "artist": "Tricky",
+      "has_synced": true,
+      "path": "select/06_The_Only_Way_Tricky.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Only Way",
+      "artist": "Futurecop! feat. Keenhouse",
+      "has_synced": false,
+      "path": "select/07_The_Only_Way_Futurecop!_feat._Keenhouse.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Only Way (feat. Keenhouse)",
+      "artist": "Futurecop!",
+      "has_synced": false,
+      "path": "select/08_The_Only_Way_(feat._Keenhouse)_Futurecop!.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Only Way",
+      "artist": "Gotye",
+      "has_synced": false,
+      "path": "select/09_The_Only_Way_Gotye.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Only Way (Is the Wrong Way)",
+      "artist": "Filter",
+      "has_synced": true,
+      "path": "select/10_The_Only_Way_(Is_the_Wrong_Way)_Filter.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bob Lind (The Only Way Is Down)",
+      "artist": "Pulp",
+      "has_synced": false,
+      "path": "select/11_Bob_Lind_(The_Only_Way_Is_Down)_Pulp.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Only Way Out",
+      "artist": "Faster Pussycat",
+      "has_synced": false,
+      "path": "select/12_Only_Way_Out_Faster_Pussycat.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Only Way",
+      "artist": "Jim Noir",
+      "has_synced": false,
+      "path": "select/13_The_Only_Way_Jim_Noir.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Only Way",
+      "artist": "Johnson&Jonson",
+      "has_synced": false,
+      "path": "select/14_The_Only_Way_Johnson&Jonson.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Only Way",
+      "artist": "Gotye",
+      "has_synced": true,
+      "path": "select/15_The_Only_Way_Gotye.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Only Way",
+      "artist": "9Lana",
+      "has_synced": false,
+      "path": "select/pl_01_Only_Way_9Lana.txt"
+    }
+  ]
+}
